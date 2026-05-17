@@ -3,7 +3,7 @@ title: Fuchstruppe
 bio: Community Orchestra
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Fuchstruppe Community Orchestra
 
 # if it's an external image, update below for true
 # better with square images
@@ -108,3 +108,7 @@ exclude:
     "FAQ.md",
     "vendor",
   ]
+
+
+kramdown:
+  hard_wrap: true
